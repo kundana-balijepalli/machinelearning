@@ -5,8 +5,8 @@ in this course were:
 - Bayesian Decision Theory
 - Linear Discriminant Functions
 - Multilayer Neural Networks
- - Batch Backpropagation
+   - Batch Backpropagation
 - Unsupervised Learning & Algorithm-Independent ML
- - Jackknife
- - K means clustering
- - Bootstrap
+   - Jackknife
+   - K means clustering
+   = Bootstrap
